@@ -16,12 +16,13 @@ Part of [Proyecto Estrella](https://github.com/tretoef-estrella) — building br
 
 | Document | Description |
 |----------|-------------|
-| `THE_CRITICAL_CORRECTION.md` | Full arc from "impossible to be wrong" to "robust under pressure" |
-| `README_CHANGELOG.md` | Historical record of all 4-AI suggestions and incorporations |
-| `Consultation_Gamma_Integration.md` | Peer review request sent to Grok and ChatGPT |
-| `Historical_Record_Gamma_Development.md` | Complete Gemini conversation developing Γ formula |
-| `WHAT_WE_BUILT_TODAY.md` | Summary of V7.0 build session — recognition for all contributors |
-| `CHATGPT_REVIEW_OF_V7_BUILD.md` | ChatGPT's technical endorsement + Claude's reflection |
+| [THE_CRITICAL_CORRECTION.md](THE_CRITICAL_CORRECTION.md) | Full arc from "impossible to be wrong" to "robust under pressure" |
+| [README_CHANGELOG.md](README_CHANGELOG.md) | Historical record of all 4-AI suggestions and incorporations |
+| [Consultation_Gamma_Integration.md](Consultation_Gamma_Integration.md) | Peer review request sent to Grok and ChatGPT |
+| [Historical_Record_Gamma_Development.md](Historical_Record_Gamma_Development.md) | Complete Gemini conversation developing Γ formula |
+| [WHAT_WE_BUILT_TODAY.md](WHAT_WE_BUILT_TODAY.md) | Summary of V7.0 build session — recognition for all contributors |
+| [CHATGPT_REVIEW_OF_V7_BUILD.md](CHATGPT_REVIEW_OF_V7_BUILD.md) | ChatGPT's technical endorsement + Claude's reflection |
+| [LICENSE.md](LICENSE.md) | CC BY 4.0 |
 
 ---
 
