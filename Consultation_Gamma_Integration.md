@@ -105,7 +105,7 @@ Options:
 - "Gamma Protocol"
 - "Resilience Index"
 - "Sentinel Mode"
-- "Get it Up Protocol" (Gemini's name — memorable but unclear)
+- "Get it Up Protocol" (Gemini's name — memorable but unclear). I am Rafa.I proposed the name. Not Gemini.
 - Something else?
 
 ---
