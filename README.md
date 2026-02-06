@@ -12,6 +12,12 @@ Part of [Proyecto Estrella](https://github.com/tretoef-estrella) — building br
 
 ---
 
+## 🚀 Live Evaluator
+
+**[→ Launch Sigma Evaluator V7.0](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK/)**
+
+---
+
 ## Contents
 
 | Document | Description |
