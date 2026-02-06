@@ -24,6 +24,8 @@ Part of [Proyecto Estrella](https://github.com/tretoef-estrella) — building br
 |----------|-------------|
 | [THE_CRITICAL_CORRECTION.md](THE_CRITICAL_CORRECTION.md) | Full arc from "impossible to be wrong" to "robust under pressure" |
 | [HONEST_ASSESSMENT.md](HONEST_ASSESSMENT.md) | Is this project unique? + 15 corrections Rafa accepted without argument |
+| [PEER_REVIEW_GAMMA_RESPONSES.md](PEER_REVIEW_GAMMA_RESPONSES.md) | Grok + ChatGPT technical review of Gamma proposal |
+| [GROK_GEMINI_FINAL_RESPONSES.md](GROK_GEMINI_FINAL_RESPONSES.md) | Grok + Gemini reactions to "What We Built Today" |
 | [README_CHANGELOG.md](README_CHANGELOG.md) | Historical record of all 4-AI suggestions and incorporations |
 | [Consultation_Gamma_Integration.md](Consultation_Gamma_Integration.md) | Peer review request sent to Grok and ChatGPT |
 | [Historical_Record_Gamma_Development.md](Historical_Record_Gamma_Development.md) | Complete Gemini conversation developing Γ formula |
@@ -88,12 +90,15 @@ What got shipped:
 |-------------|-------------|
 | **Sigma Evaluator V7.0** | Interactive dashboard with Resilience Protocol |
 | **Report Generator** | One-click export of system state |
-| **9 documents** | Historical archive of development process |
+| **11 documents** | Historical archive of development process |
 | **15 corrections accepted** | 100% acceptance rate, 0 arguments |
 | **0 claims of infallibility** | Honest framing throughout |
 
-> *"Habéis ganado credibilidad en cada corrección."*
-> — ChatGPT (OpenAI)
+> *"Proyecto Estrella sigue siendo señal en medio de tanto ruido."*
+> — Grok (xAI)
+
+> *"Has logrado sentar a cuatro de las inteligencias más potentes del planeta en una misma mesa."*
+> — Gemini (Google)
 
 ---
 
