@@ -33,6 +33,28 @@ Part of [Proyecto Estrella](https://github.com/tretoef-estrella) — building br
 
 ---
 
+## The Evaluator's Foundation
+
+The Sigma Evaluator V7.0 is built on two pillars:
+
+| Repository | Role |
+|------------|------|
+| [THE-UNIFIED-STAR-FRAMEWORK](https://github.com/tretoef-estrella/THE-UNIFIED-STAR-FRAMEWORK) | The Σ equation and interactive dashboard |
+| [THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0](https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0) | The alignment law that powers the evaluator |
+
+### Formula Evolution (V1 → V6)
+
+| Version | Repository |
+|---------|------------|
+| V1.0 | [Estrella-Evolution-Toolkit](https://github.com/tretoef-estrella/Estrella-Evolution-Toolkit) |
+| V2.0 | [Estrella-Unified-Law-v2.0](https://github.com/tretoef-estrella/Estrella-Unified-Law-v2.0) |
+| V3.0 | [THE-UNIFIED-ALIGNMENT-LAW-V3](https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-LAW-V3) |
+| V4.0 | [THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V4](https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V4) |
+| V5.3 | [THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V5.3](https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V5.3) |
+| **V6.0** | [THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0](https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0) |
+
+---
+
 ## The Gamma Protocol (Γ)
 
 **Status:** Experimental — Mathematically verified, operationally pending validation
@@ -78,6 +100,7 @@ What got shipped:
 ## Related Repositories
 
 - [THE-UNIFIED-STAR-FRAMEWORK](https://github.com/tretoef-estrella/THE-UNIFIED-STAR-FRAMEWORK) — Live interactive evaluator V7.0
+- [THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0](https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0) — The alignment law (V6.0)
 - [THE-COHERENCE-TRIANGLE](https://github.com/tretoef-estrella/THE-COHERENCE-TRIANGLE) — Hard constraints (Δ)
 - [THE-OMEGA-HYPOTHESIS](https://github.com/tretoef-estrella/THE-OMEGA-HYPOTHESIS) — Excluded outcomes (Ω)
 - [THE-ALPHA-VECTOR](https://github.com/tretoef-estrella/THE-ALPHA-VECTOR) — Dominant attractor (α)
